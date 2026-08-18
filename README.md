@@ -1,4 +1,4 @@
-# Evaluaci-n-Parcial-1-Nivel-intermedio-Vc
+# Evaluacion-Parcial-1-Nivel-intermedio-Vc
 
 📁 Estructura del proyecto
 
